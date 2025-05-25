@@ -1,1 +1,1 @@
-Esse trabalho consiste em uma tela de Login e Cadastro utilizando HTML, CSS e JavaScript, com integração ao Supabase, que permite criar contas e realizar login de maneira simples
+Esse trabalho consiste em uma tela de Login e Cadastro, que leva para uma lista de tarefas simples utilizando HTML, CSS e JavaScript, com integração ao Supabase usando tabelas da API, que permite criar contas e realizar login de maneira simples
